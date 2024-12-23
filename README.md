@@ -3,9 +3,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer net sales performance](https://github.com/Nandankumars/Excel-Sales-Analytics/blob/main/customer%20net%20sales%20performance.pdf) 
+    **1.** Create a [customer net sales performance](https://github.com/Nandankumars/Excel-Sales-Analytics/blob/main/customer%20net%20sales%20performance.pdf) 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales target](https://github.com/Nandankumars/Excel-Sales-Analytics/blob/main/market%20performance%20vs%20target.pdf)
+    **2.** Conduct a comprehensive comparison between [market performance and sales target](https://github.com/Nandankumars/Excel-Sales-Analytics/blob/main/market%20performance%20vs%20target.pdf)
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -18,11 +18,11 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Months](https://github.com/Nandankumars/Excel-Sales-Analytics/blob/main/p%26l%20fiscal%20month.pdf) 
+    **1.** Create Profit and Loss (P&L) reports by [Months](https://github.com/Nandankumars/Excel-Sales-Analytics/blob/main/p%26l%20fiscal%20month.pdf) 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Nandankumars/Excel-Sales-Analytics/blob/main/p%26l%20markets.pdf)
+   **2.** Create Profit and Loss (P&L) reports by [Markets](https://github.com/Nandankumars/Excel-Sales-Analytics/blob/main/p%26l%20markets.pdf)
 
-  **3.** Create Gross Margin Percentage (GM%) for Quarters reports by _[Sub Zone](https://github.com/Nandankumars/Excel-Sales-Analytics/blob/main/gm%25%20by%20quarters.pdf)
+  **3.** Create Gross Margin Percentage (GM%) for Quarters reports by [Sub Zone](https://github.com/Nandankumars/Excel-Sales-Analytics/blob/main/gm%25%20by%20quarters.pdf)
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
